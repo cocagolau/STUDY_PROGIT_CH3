@@ -1,0 +1,3 @@
+[submodule "jpa"]
+	path = jpa
+	url = https://github.com/cocagolau/STUDY_JPA
